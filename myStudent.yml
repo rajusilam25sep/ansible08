@@ -1,0 +1,13 @@
+---
+- myStudent:
+  - name:
+    addres:
+    phno:
+      pincode:
+      street:
+
+  - name:
+    address:
+    phno:
+      pincode:
+      street: 
